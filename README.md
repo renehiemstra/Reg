@@ -1,1 +1,1 @@
-# Reg.t - package registry manager
+# Reg.t - package registry manager for the terra language
